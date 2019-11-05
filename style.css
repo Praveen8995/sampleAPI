@@ -7,10 +7,14 @@
     display: flex;
     flex-wrap: wrap;
   }
-  
+
   .card {
     margin: 1rem;
     border: 1px solid gray;
+  }
+  .button{
+    position: relative;
+    background-color: blue;
   }
   
   @media screen and (min-width: 100px) {
